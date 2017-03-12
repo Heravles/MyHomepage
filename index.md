@@ -14,4 +14,4 @@ NULL
 NULL
 # Course
 ## A.computer graphics
-1.[See the world form Graph -- an introduction to CG](https://www.baidu.com)
+1.[See the world form Graph -- an introduction to CG](https://github.com/Heravles/my-first)

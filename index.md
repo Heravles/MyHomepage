@@ -14,4 +14,4 @@ Occupation: SDUer
 
 # Course
 ## computer graphics
-1.[See the world form Graph -- an introduction to cg](https://www.baidu.com)
+1.[See the world form Graph -- an introduction to CG](https://www.baidu.com)
